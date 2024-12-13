@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christos Adam
 - 👀 I’m interested in Software Development and Artificial Inteligence
-- 🌱 I’m currently learning github tools
+- 🌱 I’m currently learning software tools and working on personal projects to improve my experience
 - 💞️ I’m looking to work as a software engineer
 - 📫 How to reach me: through my mail
